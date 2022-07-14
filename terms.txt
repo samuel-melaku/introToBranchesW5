@@ -1,0 +1,17 @@
+Conditional Statement - commands that handle decisions
+
+Selection / Branch - a sequence of statements only executed under a ceertain condition.
+
+Decision Boxes - two branches that each execute different commands based on a true or false check
+
+If-else - a decision and its two branches
+
+If-elseif branches -  a series of decisions
+
+Equality operator - a "==", which evaluates to true if the left and right sides are equal
+
+Boolean - a data type that just has two values: true or false.
+
+Nested branches - a form of an if-else branch that can take on various forms, and can use different variables
+
+Multiple if branches - a branch where each decision is independent, and where more than one branch can execute
